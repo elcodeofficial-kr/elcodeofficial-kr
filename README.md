@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on uec-website <br>🌱 I’m currently learning Dart, Flutter<br>💬 Ask me about Javascript/Typescript/React/Next/Nest <br>
+🔭 I’m currently working on uec-website <br>
+🌱 I’m currently learning Dart, Flutter<br>
+💬 Ask me about Javascript/Typescript/React/Next/Nest<br>
+📰 blog here 👉 [github pages](https://blog.elcode.co.kr)
 
 
 ## 🌐 Socials:
