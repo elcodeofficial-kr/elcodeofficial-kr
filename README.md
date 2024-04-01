@@ -40,7 +40,3 @@
 |Competition|Rank|Award|Date|
 |------|---|---|---|
 |2019 OSAM|1st|Minister's Award|December 4, 2019|
----
-[![](https://visitcount.itsvg.in/api?id=elcodeofficial-kr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
