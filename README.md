@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on Underwater Environmental Science Council Web <br>
 🌱 I’m currently learning Dart, Flutter<br>
 💬 Ask me about Javascript/Typescript/React/Next/Nest<br>
@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gwanwoo.king) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
@@ -35,7 +35,7 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
-### 🏆 Awards
+## 🏆 Awards
 
 |Competition|Rank|Award|Date|
 |------|---|---|---|
