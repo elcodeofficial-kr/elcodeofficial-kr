@@ -1,6 +1,6 @@
 ## 💫 About Me:
 🔭 I’m currently working on Uzbekistan K-LAB MAKER SPACE <br>
-🌱 I’m currently learning Dart, Flutter<br>
+🌱 I’m currently learning LangChain LLM
 💬 Ask me about Javascript/Typescript/React/Next/Nest<br>
 📰 blog here 👉 [github pages](https://blog.elcode.co.kr)
 
